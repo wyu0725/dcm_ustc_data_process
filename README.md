@@ -1,1 +1,2 @@
-# dcm_ustc_data_process
+# USTC DCM 数据解包程序
+
